@@ -1,1 +1,7 @@
-# nov_6_2019A
+1 Check Prime
+
+2 Prime Numbers
+
+3 Prime factors
+
+4 Smallest prime factor
